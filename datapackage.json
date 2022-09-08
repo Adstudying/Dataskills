@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "resource1",
-      "path": "kundenpunktlichkeit%2Dtag%2Dcsv%2Ecsv.txt",
+      "path": "W5XL2MV7C20QHFBIX7LF6G2E.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
